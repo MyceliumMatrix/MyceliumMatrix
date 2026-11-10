@@ -1,4 +1,6 @@
-Computer Systems Technician Student with a deep growing passion for cybersecurity and understanding how the technology we depend on daily actually works.
+Greetings and Welcome to my github.
+
+I'm a Computer Systems Technician Student with a deep growing passion for cybersecurity and understanding how the technology we depend on daily actually works.
 
 I’ve always been the person to tinker and look under the hood, try to figure out why something broke, and understand how it could be made better.
 
